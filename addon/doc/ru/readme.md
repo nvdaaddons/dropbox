@@ -3,20 +3,20 @@
 * Авторы: Patrick ZAJDA <patrick@zajda.fr>, Filaos и другие участники
 * NVDA compatibility: NVDA 2019.1 or later
 * Загрузить [стабильную версию][1]
-* Download [development version][2]
+* Загрузить [разрабатываемую версию][2]
 
-This plugin add a shortcut to announce Dropbox status or open the Dropbox
-systray menu when pressed once or twice respectively.  It also enhances
-DropBox item lists.
+Этот плагин добавляет горячую клавишу для объявления состояния DropBox или
+открытия меню системного лотка Dropbox при одинарном или двойном нажатии
+соответственно.  Он также расширяет список элементов DropBox.
 
 * Горячая клавиша: NVDA+Alt+D
 
 
-## Changes for 4.6 ##
+## Изменения в версии 4.6 ##
 
 * Specify NVDA 2021.1 compatibility
 
-## Changes for 4.4 ##
+## Изменения в версии 4.4 ##
 
 * Python 3 compatibility
 * Use the last addon template
