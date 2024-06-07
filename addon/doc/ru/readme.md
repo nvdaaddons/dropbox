@@ -1,7 +1,7 @@
 # dropbox #
 
 * Авторы: Patrick ZAJDA <patrick@zajda.fr>, Filaos и другие участники
-* NVDA compatibility: NVDA 2019.1 or later
+* Совместимость с NVDA: NVDA 2019.1 или позднее
 * Загрузить [стабильную версию][1]
 * Загрузить [разрабатываемую версию][2]
 
@@ -14,16 +14,16 @@
 
 ## Изменения в версии 4.6 ##
 
-* Specify NVDA 2021.1 compatibility
+* Указана совместимость с NVDA 2021.1
 
 ## Изменения в версии 4.4 ##
 
-* Python 3 compatibility
-* Use the last addon template
-* Repository change to be built with Appveyor
-* Fixed wrong and removed unused shortcuts in the documentation
-* Update the description in the documentation which still referenced the
-  announcement of the version
+* Совместимость с Python 3
+* Используется последний шаблон дополнения
+* Изменение репозитория для сборки с помощью Appveyor
+* Исправлены неправильные и удалены неиспользуемые ярлыки в документации
+* Обновлено описание в документации, в которой всё еще есть ссылка на анонс
+  версии
 
 ## Изменения в версии 4.0 ##
 
@@ -35,9 +35,9 @@
 
 * Используйте другой способ получить кнопку cancel и вкладку. Теперь мы не
   должны приводить их к фокусу перед использованием горячих клавиш.
-* When changing the active tab, the focus move to the tab page so when
-  pressing tab, the first item of the tab is activated instead of staying to
-  the previous used tab even if it is not activated anymore.
+* При смене активной вкладки фокус перемещается на страницу вкладки, поэтому
+  при нажатии вкладки активируется первый элемент вкладки, а не остается на
+  предыдущей использованной вкладке, даже если она больше не активирована.
 * В диалоге настроек теперь можно нажать Ctrl+Page Up/Down для переключения
   между вкладками. Ctrl+ Tab и Ctrl+Shift+Tab всё ещё работает.
 * Все локализованные файлы манифеста теперь должны быть в порядке.
