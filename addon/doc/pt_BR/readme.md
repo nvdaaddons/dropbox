@@ -1,7 +1,7 @@
 # dropbox #
 
 * Autores: Patrick ZAJDA <patrick@zajda.fr>, Filaos e outros colaboradores
-* NVDA compatibility: NVDA 2019.1 or later
+* Compatibilidade com o NVDA: NVDA 2019.1 ou posterior
 * Baixe a [versão estável][1]
 * Baixe a [versão em desenvolvimento][2]
 
@@ -12,9 +12,9 @@ respectivamente. Ele também melhora as listas de itens do Dropbox.
 * Atalho: NVDA+Alt+D
 
 
-## Changes for 4.6 ##
+## Mudanças na 4.6 ##
 
-* Specify NVDA 2021.1 compatibility
+* Especificar a compatibilidade com o NVDA 2021.1
 
 ## Mudanças na 4.4 ##
 
@@ -42,7 +42,7 @@ respectivamente. Ele também melhora as listas de itens do Dropbox.
   para alternar entre guias. Control+tab e control+shift+tab continuam
   funcionando.
 * Todos os arquivos de manifesto traduzidos devem agora estar OK.
-* Correções menores
+* Correções menores.
 
 ## Mudanças na 3.0 ##
 
